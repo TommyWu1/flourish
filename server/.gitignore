@@ -1,0 +1,13 @@
+# Claude / AI configs
+.claude/
+claude.json
+
+# Cursor / editor AI configs
+.cursor/
+.vscode/settings.json
+
+# General local configs
+*.local.json
+node_modules
+.env
+*.local
